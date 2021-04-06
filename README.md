@@ -8,8 +8,3 @@
 
 - 🔭 I’m currently working on kompas.id as mobile developer
 - 🌱 I’m currently learning mobile development and UI/UX enthusiast
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="left">
-  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=wahyukharisma&show_icons=true&theme=radical">
-</p>
