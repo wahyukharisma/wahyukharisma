@@ -6,5 +6,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-- 🔭 I’m currently working on kompas.id as mobile developer
+- 🔭 I’m currently working at kompas.id as mobile developer
 - 🌱 I’m currently learning mobile development and UI/UX enthusiast
