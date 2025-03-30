@@ -22,6 +22,6 @@ I'm currently diving deeper into:
 ## 📢 Let's Connect!
 - 🔗 **GitHub**: [github.com/wahyukharisma](https://github.com/wahyukharisma)
 - 🎥 **TikTok**: [@wahyukharisma.dev](https://www.tiktok.com/@wahyukharismaa)
-- 💼 **LinkedIn**: [linkedin.com/in/wahyukharisma]([https://www.linkedin.com/in/wahyukharisma](https://www.linkedin.com/in/wahyu-kharisma-candra/))
+- 💼 **LinkedIn**: [linkedin.com/in/wahyukharisma](https://www.linkedin.com/in/wahyukharisma](https://www.linkedin.com/in/wahyu-kharisma-candra )
 
 Thanks for stopping by! 😊🔥
