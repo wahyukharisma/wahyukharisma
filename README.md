@@ -11,7 +11,7 @@ I'm a passionate software engineer with over **5 years of experience** specializ
 - 🛠 **Tech Stack** – Android, Next.js, TypeScript, Node.js, Hybrid mobile, Laravel, PHP
 - 🎥 **Content Creator** – Making TikTok content about mobile development, IT careers, and industry trends
 
-## 🚀 On Progress Projects
+## 🚀 On Going Projects
 - **Mobile Trivia** – Make a simple trivia game (flutter & typescript)
 
 ## 🌱 Always Learning
