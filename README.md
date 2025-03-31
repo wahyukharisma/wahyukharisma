@@ -20,7 +20,7 @@ I'm currently diving deeper into:
 - **Typescript** for backend
 
 ## 📢 Let's Connect!
-- 🎥 **TikTok**: [@wahyukharisma.dev](https://www.tiktok.com/@wahyukharismaa)
+- 🎥 **TikTok**: [@wahyukharismaa](https://www.tiktok.com/@wahyukharismaa)
 - 💼 **LinkedIn**: [linkedin.com/in/wahyukharisma](https://www.linkedin.com/in/wahyukharisma](https://www.linkedin.com/in/wahyu-kharisma-candra )
 
 Thanks for stopping by! 😊🔥
